@@ -5,6 +5,7 @@ $ npm run migrate
 ```
 # 2. Запуск сервера:
 ```bash
+$ npm i
 $ npm run start
 ```
 # Было проведено тестирование:
